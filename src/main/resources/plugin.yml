@@ -1,0 +1,6 @@
+name: rBookOnline
+version: ${project.version}
+main: ru.rey.rbookonline.Core
+api-version: 1.13
+authors: [Rey]
+website: https://vk.com/re1khsempai
